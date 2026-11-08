@@ -1,0 +1,32 @@
+[
+  {
+    "id": "xrf",
+    "name": "XRF",
+    "tag": "DESKTOP PRECISION",
+    "desc": "A focused starting point for detailed engraving and personalized gifts.",
+    "power": "38W RF",
+    "image": "XRF\u2122",
+    "path": "/products/onelaser-xrf-desktop-laser-machine",
+    "detail": "Personalized boards \u00b7 leather goods \u00b7 detailed artwork"
+  },
+  {
+    "id": "cobra",
+    "name": "Cobra Series",
+    "tag": "WORKSHOP VERSATILITY",
+    "desc": "Explore a workshop setup for wood, acrylic and varied cutting projects.",
+    "power": "90\u2013130W CO\u2082 options",
+    "image": "Cobra\u2122 Series",
+    "path": "/products/cobra-8-90w-co2-laser-engraver-cutter",
+    "detail": "Signs \u00b7 event decor \u00b7 wood products"
+  },
+  {
+    "id": "vertigo",
+    "name": "VertiGo",
+    "tag": "DRINKWARE SPECIALIST",
+    "desc": "Build a dedicated workflow around personalized tumblers and cups.",
+    "power": "38W RF",
+    "image": "VertiGo",
+    "path": "/products/vertigo-vertical-laser-engraver",
+    "detail": "Coated tumblers \u00b7 cups \u00b7 branded drinkware"
+  }
+]
