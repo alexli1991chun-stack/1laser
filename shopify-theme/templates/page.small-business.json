@@ -1,0 +1,12 @@
+{
+  "layout": "theme",
+  "sections": {
+    "main": {
+      "type": "onelaser-small-business",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

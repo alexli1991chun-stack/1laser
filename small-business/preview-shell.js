@@ -1,0 +1,1 @@
+window.addEventListener('message',event=>{const frame=document.getElementById('theme-header');if(event.origin!==location.origin||event.source!==frame.contentWindow||event.data?.type!=='onelaser-header-height')return;const height=Number(event.data.height);if(Number.isFinite(height)&&height>0&&height<3000)frame.style.height=height+'px';});

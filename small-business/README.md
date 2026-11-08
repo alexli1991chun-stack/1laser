@@ -19,3 +19,9 @@ No build dependencies. `node --check small-business/app.js` checks JavaScript sy
 
 ## Before production
 Review brand/copy, match logic, approved image selection and product suitability. Add authorized case studies when available. For durable lead capture, connect an approved backend and privacy/consent flow. No request is currently sent to a lead backend.
+
+## Version 2 — OneLaser theme alignment
+
+Removed the independently designed header/announcement from the page. `theme-header.html` is an isolated rendered official-header snapshot for GitHub review only; `preview-shell.js` resizes its iframe. The real shared header/top/footer are supplied by the existing Shopify layout when installing the additive patch in `../shopify-theme/`. The snapshot is not live-synced and does not reproduce Shopify app behaviors. See that directory's README for integration limits.
+
+UI now follows official Archivo type, #e7310e buttons, white and light-gray surfaces, round controls and machine photography with scene hover. Theme CSS is scoped so it cannot restyle the shared header/footer. The root prototype remains unchanged.
